@@ -14,8 +14,8 @@ if (!defined('DC_RC_PATH')) { return; }
 
 $this->registerModule(
 		/* Name */			'infoBlog',
-		/* Description */		'Display all information about your blog',
-		/* Author */			'Tomtom (http://plugins.zenstyle.fr/)',
+		/* Description */		'Display all informations about your blog',
+		/* Author */			'Tomtom, Pierre Van Glabeke',
 		/* Version */			'1.1',
 	/* Properties */
 	array(

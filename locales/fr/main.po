@@ -1,6 +1,6 @@
 # Language: Français
 # Module: infoBlog - 1.1
-# Date: 2018-02-19 13:24:30
+# Date: 2018-02-19 13:50:54
 # Translated with translater 2018.02.14
 
 msgid ""
@@ -8,11 +8,12 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Project-Id-Version: infoBlog 1.1\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2018-02-19T13:24:30+00:00\n"
+"PO-Revision-Date: 2018-02-19T13:50:54+00:00\n"
 "Last-Translator: brol\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
 #: _public.php:45
 msgid "selected entries"
@@ -63,13 +64,16 @@ msgid "Authors:"
 msgstr "Auteurs :"
 
 #: _widgets.php:26
-#: _widgets.php:29
-msgid "Information about your blog"
-msgstr "Informations sur le blog"
+msgid "InfoBlog: informations about your blog"
+msgstr "InfoBlog : informations sur votre blog"
 
 #: _widgets.php:28
-msgid "Display all information about your blog"
-msgstr "Affiche toutes les informations à propos de votre blog"
+msgid "Display all informations about your blog"
+msgstr "Affiche toutes les informations sur votre blog"
+
+#: _widgets.php:29
+msgid "Informations about your blog"
+msgstr "Informations sur votre blog"
 
 #: _widgets.php:30
 msgid "Display entries number"

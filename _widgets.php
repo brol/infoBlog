@@ -23,10 +23,10 @@ class infoBlogWidgets
 	 */
 	public static function initWidgets($w)
 	{
-		$w->create('infoBlog',__('Information about your blog'),array('infoBlogPublic','widget'),
+		$w->create('infoBlog',__('InfoBlog: informations about your blog'),array('infoBlogPublic','widget'),
 			null,
-			__('Display all information about your blog'));
-		$w->infoBlog->setting('title',__('Title:'),__('Information about your blog'),'text');
+			__('Display all informations about your blog'));
+		$w->infoBlog->setting('title',__('Title:'),__('Informations about your blog'),'text');
 		$w->infoBlog->setting('displayentriesnumber',__('Display entries number'),true,'check');
 		$w->infoBlog->setting('displayselectedentriesnumber',__('Display selected entries number'),true,'check');
 		$w->infoBlog->setting('displayentrieswaitingnumber',__('Display entries waiting\'s number'),true,'check');

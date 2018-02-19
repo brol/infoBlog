@@ -1,7 +1,7 @@
 <?php
 // Language: Français 
 // Module: infoBlog - 1.1
-// Date: 2018-02-19 13:24:30 
+// Date: 2018-02-19 13:50:54 
 // Translated with dcTranslater - 2018.02.14 
 
 #_public.php:45
@@ -41,11 +41,13 @@ $GLOBALS['__l10n']['ping'] = 'rétrolien';
 $GLOBALS['__l10n']['Authors:'] = 'Auteurs :';
 
 #_widgets.php:26
-#_widgets.php:29
-$GLOBALS['__l10n']['Information about your blog'] = 'Informations sur le blog';
+$GLOBALS['__l10n']['InfoBlog: informations about your blog'] = 'InfoBlog : informations sur votre blog';
 
 #_widgets.php:28
-$GLOBALS['__l10n']['Display all information about your blog'] = 'Affiche toutes les informations à propos de votre blog';
+$GLOBALS['__l10n']['Display all informations about your blog'] = 'Affiche toutes les informations sur votre blog';
+
+#_widgets.php:29
+$GLOBALS['__l10n']['Informations about your blog'] = 'Informations sur votre blog';
 
 #_widgets.php:30
 $GLOBALS['__l10n']['Display entries number'] = 'Afficher le nombre de billets';
