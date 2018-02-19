@@ -1,0 +1,121 @@
+# Language: Français
+# Module: infoBlog - 1.1
+# Date: 2018-02-19 13:24:30
+# Translated with translater 2018.02.14
+
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Project-Id-Version: infoBlog 1.1\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2018-02-19T13:24:30+00:00\n"
+"Last-Translator: brol\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: _public.php:45
+msgid "selected entries"
+msgstr "billets sélectionnés"
+
+#: _public.php:45
+msgid "selected entry"
+msgstr "billet sélectionné"
+
+#: _public.php:55
+msgid "entries waiting"
+msgstr "billets en attente"
+
+#: _public.php:55
+msgid "entry waiting"
+msgstr "billet en attente"
+
+#: _public.php:65
+msgid "scheduled entries"
+msgstr "billets programmés"
+
+#: _public.php:65
+msgid "scheduled entry"
+msgstr "billet programmé"
+
+#: _public.php:75
+msgid "offline entries"
+msgstr "billets hors ligne"
+
+#: _public.php:75
+msgid "offline entry"
+msgstr "billet hors ligne"
+
+#: _public.php:80
+msgid "comments"
+msgstr "commentaires"
+
+#: _public.php:85
+msgid "pings"
+msgstr "rétroliens"
+
+#: _public.php:85
+msgid "ping"
+msgstr "rétrolien"
+
+#: _public.php:117
+msgid "Authors:"
+msgstr "Auteurs :"
+
+#: _widgets.php:26
+#: _widgets.php:29
+msgid "Information about your blog"
+msgstr "Informations sur le blog"
+
+#: _widgets.php:28
+msgid "Display all information about your blog"
+msgstr "Affiche toutes les informations à propos de votre blog"
+
+#: _widgets.php:30
+msgid "Display entries number"
+msgstr "Afficher le nombre de billets"
+
+#: _widgets.php:31
+msgid "Display selected entries number"
+msgstr "Afficher le nombre de billets sélectionnés"
+
+#: _widgets.php:32
+msgid "Display entries waiting's number"
+msgstr "Afficher le nombre de billets en attente"
+
+#: _widgets.php:33
+msgid "Display scheduled entries number"
+msgstr "Afficher le nombre de billets programmés"
+
+#: _widgets.php:34
+msgid "Display offline entries number"
+msgstr "Afficher le nombre de billets hors ligne"
+
+#: _widgets.php:35
+msgid "Display comments number"
+msgstr "Afficher le nombre de commentaires"
+
+#: _widgets.php:36
+msgid "Display pings number"
+msgstr "Afficher le nombre de rétroliens"
+
+#: _widgets.php:37
+msgid "Display start blog date"
+msgstr "Afficher la date de création du blog"
+
+#: _widgets.php:38
+msgid "Text to display start day:"
+msgstr "Texte pour la date de création du blog :"
+
+#: _widgets.php:38
+msgid "Blog start the %s"
+msgstr "Blog créé le %s"
+
+#: _widgets.php:39
+msgid "Display authors"
+msgstr "Afficher les auteurs"
+
+#: _widgets.php:40
+msgid "Display author statistics"
+msgstr "Afficher les statistiques des auteurs"
+
